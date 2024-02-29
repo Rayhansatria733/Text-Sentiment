@@ -1,5 +1,5 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
-## Author: @Rav Ahuja , @ Mark Sturdevant , @ Martin Hickey
+## Author: @ Rav Ahuja , @ Mark Sturdevant , @ Martin Hickey
 ### Mentee assignment from IBM Advance AI @ Infinite Learning Course completation. In this guided project, I built a Python application that uses Caikit run-time and API to query the Hugging Face model for sentiment analysis on text strings.
 
 ###In this project I learn to perform Text Sentiment Analysis using Caikit and Hugging Face. Discover the power of leveraging a Hugging Face sentiment analysis model and calling it through APIs from a Python-based Caikit run-time. I gain the skills to use Caikit as an abstraction layer that enables you to utilize and manage various kinds of AI models using a consistent interface.
